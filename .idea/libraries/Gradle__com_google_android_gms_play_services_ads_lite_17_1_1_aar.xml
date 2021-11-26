@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-lite:17.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bb19fadcb08ebb17c127d90e912c8db/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bb19fadcb08ebb17c127d90e912c8db/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2f2796619edb0a77a651d18317bd650/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2f2796619edb0a77a651d18317bd650/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2f2796619edb0a77a651d18317bd650/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73e75229bc42592c3541dbbe9701f10e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73e75229bc42592c3541dbbe9701f10e/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73e75229bc42592c3541dbbe9701f10e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
